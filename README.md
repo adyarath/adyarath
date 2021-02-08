@@ -1,10 +1,12 @@
-# Nice to see you here! 👋
+## Nice to see you here! 👋
 <strong>I am Adya Rath, a developer who is addicted to coffee☕ and cats🐈 currently pursuing B.Tech in Veer Surendra Sai University of Technology,Burla(formerly UCE). A coding enthusiast with dreams💭 of becoming a game developer in the future.</strong>
-
-
 ![](cat.gif)
 
+## 🧰⚒️ Languages and Tools 
 
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 
 
 <!--
