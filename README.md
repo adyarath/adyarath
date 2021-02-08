@@ -1,5 +1,5 @@
 # Nice to see you here! 👋
-<strong>I am Adya Rath, a developer who is addicted to coffee☕ and cats🐈 currently pursuing B.Tech in Veer Surendra Sai University of Technology,Burla(formerly UCE)A coding enthusiast with dreams💭 of becoming a game developer in the future.</strong>
+<strong>I am Adya Rath, a developer who is addicted to coffee☕ and cats🐈 currently pursuing B.Tech in Veer Surendra Sai University of Technology,Burla(formerly UCE). A coding enthusiast with dreams💭 of becoming a game developer in the future.</strong>
 
 
 ![](cat.gif)
