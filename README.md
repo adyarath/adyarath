@@ -13,6 +13,6 @@
 
 ## 🖂 Contact me on
 <p>
-<a href="https://linkedin.com/in/adya-rath-165b971a0" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="30" style="vertical-align:top; margin:4px"></a>
- <a href="adyarath1@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="30" style="vertical-align:top; margin:4px"></a>
+<a href="https://linkedin.com/in/adya-rath-165b971a0" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="30" style="vertical-align:top; margin:4px 15px"></a>
+ <a href="adyarath1@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="30" style="vertical-align:top; margin:4px 15px"></a>
 </p>
