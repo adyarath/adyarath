@@ -1,5 +1,5 @@
-## Hi there 👋
-<strong>I am a developer who is addicted to coffee☕ and cats🐈 currently pursuing B.Tech in Veer Surendra Sai University of Technology,Burla.</strong>
+# Nice to see you here! 👋
+<strong>I am a developer who is addicted to coffee☕ and cats🐈 currently pursuing B.Tech in Veer Surendra Sai University of Technology, Burla.</strong>
 
 
 ![](cat.gif)
